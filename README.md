@@ -9,6 +9,35 @@
 ## 👨‍💻 About Me
 
 
+## 💻 Workspace Specs
+![CPU](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5.svg?style=flat&logo=cpu&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA-RTX_3060-76B900.svg?style=flat&logo=gpu&logoColor=white)
+![OS](https://img.shields.io/badge/Linux-Ubuntu-E95420.svg?style=flat&logo=os&logoColor=white)
+
+## 🏆 Featured Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/100+-Projects-31C442?style=for-the-badge&logo=github&logoColor=white"/>
+        <br />
+        <small>Completed Projects</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/500+-Contributions-2088FF?style=for-the-badge&logo=github&logoColor=white"/>
+        <br />
+        <small>Open Source Contributions</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/10+-Certifications-FF6C37?style=for-the-badge&logo=acclaim&logoColor=white"/>
+        <br />
+        <small>Tech Certifications</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📊 GitHub Stats
 <div align="center">
   <!-- Streak Stats -->
