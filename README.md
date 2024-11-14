@@ -12,12 +12,6 @@
   </a>
 </p>
 
-<h2 align="center">💻 Workspace Specs</h2>
-<h3 align="center">Browsers</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Opera-4285F4?style=flat&logo=opera&logoColor=white" alt="Opera" />
-</p>
-
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
