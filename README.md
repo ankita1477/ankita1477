@@ -14,55 +14,48 @@
 
 ## 🛠️ Tech Arsenal
 
-### Backend Development
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Frontend Development
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 
 ## 📊 GitHub Stats
-    <div align="center">
-      <table>
-        <tr>
-          <!-- GitHub Stats Card -->
-          <td style="border: 1px solid #ccc; padding: 10px;">
-            <a href="https://github.com/ankita1477">
-              <img src="https://github-readme-stats.vercel.app/api?username=ankita1477&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-            </a>
-          </td>
-          <!-- Top Languages Card -->
-          <td style="border: 1px solid #ccc; padding: 10px;">
-            <a href="https://github.com/ankita1477">
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&theme=github_dark&hide_border=false&layout=compact&langs_count=6" alt="Top Languages" />
-            </a>
-          </td>
-        </tr>
-      </table>
-
-      <!-- Streak Stats -->
-      <a href="https://github.com/ankita1477">
-        <img src="https://github-readme-streak-stats.vercel.app/?user=ankita1477&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-      </a>
-
-      <br/><br/>
-
-      <!-- Trophy -->
-      <a href="https://github.com/ankita1477">
-        <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=onestar&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
-      </a>
-
-      <br/><br/>
-
-      <!-- Activity Graph -->
-      <a href="https://github.com/ankita1477">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&custom_title=Contribution%20Graph&theme=github-compact&hide_border=true" alt="Activity Graph" />
-      </a>
-    </div>
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/ankita1477">
+    <img src="https://github-readme-stats.vercel.app/api?username=ankita1477&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="ankita1477's GitHub Stats" height="180px"/>
+  </a>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/ankita1477">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&theme=github_dark&hide_border=true&layout=compact&langs_count=6" alt="ankita1477's Top Languages" height="180px"/>
+  </a>
+  
+  <!-- Streak Stats -->
+  <br/><br/>
+  <a href="https://github.com/ankita1477">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=ankita1477&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Trophy -->
+  <a href="https://github.com/ankita1477">
+    <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=onestar&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/ankita1477">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&custom_title=Contribution%20Graph&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  </a>
+</div>
 
 ## 🤝 Connect With Me
 
