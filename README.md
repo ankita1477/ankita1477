@@ -59,23 +59,47 @@
 ## 📊 GitHub Stats
 <div align="center">
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=ankita1477&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ankita1477&theme=github-dark-blue&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ankita1477&theme=default&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=ankita1477&theme=default&hide_border=true" alt="GitHub Streak"/>
+  </picture>
 
-  <br/>
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankita1477&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  
-  <br/>
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankita1477&theme=dark&hide_border=true&layout=compact&langs_count=8" />
-  
-  <br/>
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies"/>
-  
-  <br/>
+  <br/><br/>
+
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ankita1477&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ankita1477&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ankita1477&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </picture>
+
+  <br/><br/>
+
+  <!-- Top Languages Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&theme=github_dark&hide_border=true&layout=compact&langs_count=6"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&theme=default&hide_border=true&layout=compact&langs_count=6"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&theme=default&hide_border=true&layout=compact&langs_count=6" alt="Most Used Languages" />
+  </picture>
+
+  <br/><br/>
+
+  <!-- Trophy -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=onestar&no-frame=true&row=1&column=6"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=flat&no-frame=true&row=1&column=6"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  </picture>
+
+  <br/><br/>
+
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph-kskrv.onrender.com/graph?username=ankita1477&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&theme=minimal&hide_border=true&custom_title=Contribution%20Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&theme=minimal&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+  </picture>
 </div>
 
 ---
