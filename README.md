@@ -1,16 +1,14 @@
+# Hi 👋, I'm Ankita Rahi
+
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ankita_Rahi&label=Profile%20Views&color=1&icon=5&pretty=true" />
-  </a>
-</div>
-
-<h1 align="center">Hi 👋, I'm Ankita Rahi</h1>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=435&height=75&lines=Full%20Stack%20Developer%3BOpen%20Source%20Contributor%3BTech%20Enthusiast" />
   </a>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ankita_Rahi&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</div>
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -34,14 +32,8 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
-<div align="center">
-  
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
-</div>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankita1477&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</div>
