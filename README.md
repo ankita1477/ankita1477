@@ -15,15 +15,21 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankita Rahi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankita Rahi&theme=github-dark-blue&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita Rahi&theme=github_dark&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" alt="Top Languages" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankita Rahi&theme=onestar&no-frame=true&no-bg=true&column=8&margin-w=2&margin-h=2" alt="GitHub Trophies" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankita Rahi&custom_title=&hide_border=true&theme=react-dark&bg_color=0D1117&area=true" width="100%" alt="Contribution Graph" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ankita Rahi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ankita Rahi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita Rahi&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&layout=compact&langs_count=8" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=Ankita Rahi&theme=onestar&no-frame=true&no-bg=true&column=8&margin-w=2&margin-h=2" alt="GitHub Trophies" />
+  </p>
+  <p>
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankita Rahi&custom_title=&hide_border=true&theme=react-dark&bg_color=0D1117&area=true&area_color=58A6FF" alt="Contribution Graph" />
+  </p>
 </div>
 
 <div align="center">
