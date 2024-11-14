@@ -12,16 +12,25 @@
   </a>
 </p>
 
-<h2 align="center">🛠️ My Tech Arsenal</h2>
+## 👨‍💻 About Me
 
-<h3 align="center">Frontend Development</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white" alt="Next.js" />
-</p>
+frfr
+
+<h2 align="center">🛠️ My Tech Arsenal</h2>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+<h3 align="center">Backend Development</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</p>
+
+<h3 align="center">Database & Cloud</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 <h3 align="center">DevOps & Tools</h3>
@@ -31,7 +40,7 @@
 
 <h3 align="center">Mobile Development</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=reactnative&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=reactnative&logoColor=white" alt="React Native" />
 </p>
 
 
