@@ -12,37 +12,15 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
-
-frfr
-
-<h2 align="center">🛠️ My Tech Arsenal</h2>
-
-<h3 align="center">Programming Languages</h3>
+<h2 align="center">💻 Workspace Specs</h2>
+<h3 align="center">OS</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white" alt="MacOS" /> <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" alt="Linux" />
 </p>
-
-<h3 align="center">Backend Development</h3>
+<h3 align="center">Browsers</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Safari-4285F4?style=flat&logo=safari&logoColor=white" alt="Safari" />
 </p>
-
-<h3 align="center">Database & Cloud</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-<h3 align="center">DevOps & Tools</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<h3 align="center">Mobile Development</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=reactnative&logoColor=white" alt="React Native" />
-</p>
-
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -63,9 +41,9 @@ frfr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankita Rahi&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+</div>
 
 <div align="center">
   
@@ -74,5 +52,5 @@ frfr
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ankita Rahi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
