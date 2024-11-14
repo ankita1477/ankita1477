@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&height=30&lines=Full%20Stack%20Developer%3BOpen%20Source%20Contributor%3BTech%20Enthusiast" />
-</p>
-
-# Hi 👋, I'm Ankita Rahi
-
 <div align="center">
+  <h1>Hi 👋, I'm Ankita Rahi</h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&height=30&lines=Software%20Architect%3BCloud%20Solutions%3BTech%20Innovator" />
+
   <img src="https://visitcount.itsvg.in/api?id=Ankita_Rahi&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </div>
 
