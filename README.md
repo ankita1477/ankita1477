@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=435&height=50&lines=Frontend%20Engineer%3BOpen%20Source%20Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&height=30&lines=Full%20Stack%20Developer%3BOpen%20Source%20Contributor%3BTech%20Enthusiast" />
 </p>
 
 # Hi 👋, I'm Ankita Rahi
