@@ -25,37 +25,31 @@
 
 
 ## 📊 GitHub Stats
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/ankita1477">
-    <img src="https://github-readme-stats.vercel.app/api?username=ankita1477&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="ankita1477's GitHub Stats" height="180px"/>
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/ankita1477">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&theme=github_dark&hide_border=true&layout=compact&langs_count=6" alt="ankita1477's Top Languages" height="180px"/>
-  </a>
-  
-  <!-- Streak Stats -->
-  <br/><br/>
-  <a href="https://github.com/ankita1477">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=ankita1477&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-  </a>
-  
-  <br/><br/>
-  
-  <!-- Trophy -->
-  <a href="https://github.com/ankita1477">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=onestar&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
-  </a>
-  
-  <br/><br/>
-  
-  <!-- Activity Graph -->
-  <a href="https://github.com/ankita1477">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&custom_title=Contribution%20Graph&theme=github-compact&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
+    <div align="center">
+      <!-- GitHub Stats and Top Languages -->
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/ankita1477">
+              <img src="https://github-readme-stats.vercel.app/api?username=ankita1477&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="ankita1477's GitHub Stats"/>
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/ankita1477">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&theme=github_dark&hide_border=true&layout=compact&langs_count=6" alt="ankita1477's Top Languages"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+      
+      <!-- Streak Stats -->
+      <br/><br/>
+      <a href="https://github.com/ankita1477">
+        <img src="https://github-readme-streak-stats.vercel.app/?user=ankita1477&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+      </a>
+      
+      <!-- ...existing code... -->
+    </div>
 
 ## 🤝 Connect With Me
 
