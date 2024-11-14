@@ -20,29 +20,23 @@
 ## 🛠️ Tech Arsenal
 
 ### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next%2Ejs-000000?style=for-the-badge&logo=nextjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue%2Ejs-4FC08D?style=for-the-badge&logo=vuejs&logoColor=white)
 
 ### Backend Development
-![Node.js](https://img.shields.io/badge/-Node%2Ejs-339933?style=for-the-badge&logo=nodejs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c++&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Database & Cloud
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=reactnative&logoColor=white)
@@ -91,7 +85,7 @@
 
   <!-- Top Languages Card -->
   <a href="https://github.com/ankita1477">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankita1477&theme=github_dark&hide_border=true&layout=compact&langs_count=6" alt="Most Used Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankita1477&theme=github_dark&hide_border=true&layout=compact&langs_count=6&card_width=500" alt="Top Languages" />
   </a>
 
   <br/><br/>
