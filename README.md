@@ -17,8 +17,18 @@
 ## 🛠️ Tech Arsenal
 
 ### Frontend Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ### Mobile Development
+![React Native](https://img.shields.io/badge/-React Native-61DAFB?style=flat&logo=react native&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 
 
@@ -47,22 +57,26 @@
 </div>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankita1477&theme=dark" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=ankita1477&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankita1477&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&layout=compact&theme=dark&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=darkhub&no-frame=true&row=1" alt="Trophy"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
-</p>
+  <br/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankita1477&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  
+  <br/>
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankita1477&theme=dark&hide_border=true&layout=compact&langs_count=8" />
+  
+  <br/>
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies"/>
+  
+  <br/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph-kskrv.onrender.com/graph?username=ankita1477&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+</div>
 
 ---
 <p align="center">
