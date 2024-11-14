@@ -7,7 +7,7 @@
 </h1>
 
 ## 👨‍💻 About Me
-ghvb
+gbn
 
 ## 💻 Workspace Specs
 ![CPU](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5.svg?style=flat&logo=cpu&logoColor=white)
