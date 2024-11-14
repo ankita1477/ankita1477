@@ -15,21 +15,15 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Ankita Rahi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ankita Rahi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita Rahi&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&layout=compact&langs_count=8" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Ankita Rahi&theme=onestar&no-frame=true&no-bg=true&column=8&margin-w=2&margin-h=2" alt="GitHub Trophies" />
-  </p>
-  <p>
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankita Rahi&custom_title=&hide_border=true&theme=react-dark&bg_color=0D1117&area=true&area_color=58A6FF" alt="Contribution Graph" />
-  </p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ankita Rahi&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=Ankita Rahi&theme=github-dark-blue&hide_border=true&date_format=M%20j[%2C%20Y]&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ankita Rahi&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Most Used Languages" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankita Rahi&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophy Stats" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankita Rahi&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true&hide_title=true" alt="Contribution Graph" width="100%" />
 </div>
 
 <div align="center">
