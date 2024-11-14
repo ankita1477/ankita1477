@@ -10,50 +10,26 @@
 
 ## 👨‍💻 About Me
 
-['fgn']
-
-## 🌱 Currently Learning
-
-- ngnnhn
-
-## 🛠️ Tech Arsenal
-
-### Frontend Development
-![Vue.js](https://img.shields.io/badge/-Vue%2Ejs-4FC08D?style=for-the-badge&logo=vuejs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend Development
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Programming Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
+['']
 
 ## 📊 GitHub Stats
-    
-    <p align="center">
-      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita1477&theme=dark" alt="GitHub Streak"/>
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&theme=dark&hide_border=true&layout=compact&langs_count=6" />
-    </p>
-    
-    <p align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=onestar&no-frame=true&row=1&column=6&margin-w=8" alt="Trophy"/>
-    </p>
-    
-    <p align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&theme=github-compact&hide_border=true" alt="Activity Graph"/>
-    </p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankita1477&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&theme=github_dark&hide_border=true&layout=compact&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ankita1477&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=onestar&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&theme=github-compact&hide_border=true" />
+</p>
 
 ## 🤝 Connect With Me
 
