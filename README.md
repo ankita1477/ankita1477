@@ -1,34 +1,77 @@
-[![](https://visitcount.itsvg.in/api?id=Ankita_Rahi&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Ankita_Rahi&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<h1 align="center">
+<h1 align="center">Ankita Rahi</h1>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&duration=4000&lines=Hey%20%F0%9F%91%8B%20I%27m%20Ankita%20Rahi;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
   </a>
-</h1>
+</p>
 
 ## 👨‍💻 About Me
+
 ['']
+
+## 💻 Workspace Specs
+![CPU](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5.svg?style=flat&logo=cpu&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA-RTX_3060-76B900.svg?style=flat&logo=gpu&logoColor=white)
+![OS](https://img.shields.io/badge/Linux-Ubuntu-E95420.svg?style=flat&logo=os&logoColor=white)
 
 ## 🛠️ Tech Arsenal
 
 ### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next%2Ejs-000000?style=for-the-badge&logo=nextjs&logoColor=white)
 
 ### Backend Development
-![Node.js](https://img.shields.io/badge/-Node%2Ejs-339933?style=flat&logo=nodejs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node%2Ejs-339933?style=for-the-badge&logo=nodejs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c++&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Database & Cloud
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Mobile Development
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=reactnative&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=reactnative&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+
+## 🏆 Featured Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/100+-Projects-31C442?style=for-the-badge&logo=github&logoColor=white"/>
+        <br />
+        <small>Completed Projects</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/500+-Contributions-2088FF?style=for-the-badge&logo=github&logoColor=white"/>
+        <br />
+        <small>Open Source Contributions</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/10+-Certifications-FF6C37?style=for-the-badge&logo=acclaim&logoColor=white"/>
+        <br />
+        <small>Tech Certifications</small>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -67,9 +110,11 @@
 </div>
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](['']) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:['']) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)]([''])
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]() [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 
 ---
+
 <p align="center">
   <i>Let's build something amazing together! 🚀</i>
 </p>
