@@ -11,8 +11,23 @@
 
 ## 🛠️ Tech Arsenal
 
+### Frontend Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+
 ### Backend Development
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node%2Ejs-339933?style=flat&logo=nodejs&logoColor=white)
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+
+### Database & Cloud
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=reactnative&logoColor=white)
 
 
 ## 📊 GitHub Stats
