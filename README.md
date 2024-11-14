@@ -59,47 +59,37 @@
 ## 📊 GitHub Stats
 <div align="center">
   <!-- Streak Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ankita1477&theme=github-dark-blue&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ankita1477&theme=default&hide_border=true"/>
-    <img src="https://streak-stats.demolab.com?user=ankita1477&theme=default&hide_border=true" alt="GitHub Streak"/>
-  </picture>
+  <a href="https://github.com/ankita1477">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=ankita1477&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  </a>
 
   <br/><br/>
 
   <!-- GitHub Stats Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ankita1477&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ankita1477&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=ankita1477&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </picture>
+  <a href="https://github.com/ankita1477">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankita1477&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
 
   <br/><br/>
 
   <!-- Top Languages Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&theme=github_dark&hide_border=true&layout=compact&langs_count=6"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&theme=default&hide_border=true&layout=compact&langs_count=6"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita1477&theme=default&hide_border=true&layout=compact&langs_count=6" alt="Most Used Languages" />
-  </picture>
+  <a href="https://github.com/ankita1477">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankita1477&theme=github_dark&hide_border=true&layout=compact&langs_count=6" alt="Most Used Languages" />
+  </a>
 
   <br/><br/>
 
   <!-- Trophy -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=onestar&no-frame=true&row=1&column=6"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=flat&no-frame=true&row=1&column=6"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-  </picture>
+  <a href="https://github.com/ankita1477">
+    <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=onestar&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
+  </a>
 
   <br/><br/>
 
   <!-- Activity Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&theme=minimal&hide_border=true&custom_title=Contribution%20Graph"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&theme=minimal&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
-  </picture>
+  <a href="https://github.com/ankita1477">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&custom_title=Contribution%20Graph&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  </a>
 </div>
 
 ---
