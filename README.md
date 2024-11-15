@@ -41,6 +41,12 @@
 <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git" alt="Git" />
 </p>
 
+# 💻 Workspace Specs
+
+### Tools
+
+![IntelliJ](https://img.shields.io/badge/IntelliJ-007ACC?style=flat&logo=intellij&logoColor=white)
+
 # 📊 GitHub Statistics
 
 <p>
