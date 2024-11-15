@@ -43,9 +43,17 @@
 
 # 💻 Workspace Specs
 
+### Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-000000?style=flat&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+
 ### Tools
 
-![IntelliJ](https://img.shields.io/badge/IntelliJ-007ACC?style=flat&logo=intellij&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-007ACC?style=flat&logo=intellij&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vs-code&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-007ACC?style=flat&logo=webstorm&logoColor=white)
+
+### Browsers
+
+![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=chrome&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-4285F4?style=flat&logo=edge&logoColor=white)
 
 # 📊 GitHub Statistics
 
