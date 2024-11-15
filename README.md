@@ -10,26 +10,24 @@
 # 📊 GitHub Statistics
 
 <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankita1477&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankita1477&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com/?user=ankita1477&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankita1477&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankita1477&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankita1477&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 </p>
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
+  <img src="undefined" alt="GitHub Trophies" />
 </p>
 <p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 </p>
 
 <p>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-<p>
 
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
