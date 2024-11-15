@@ -10,7 +10,7 @@
 # 💻 Tech Stack
 ### 💻 Programming Languages
 <p>
-<img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" />
+<img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=c++" alt="C++" />
 </p>
 ### 🌐 Frontend Development
 <p>
