@@ -27,21 +27,44 @@
 
 <img align="right" alt="Ankita Rahi" width="400" src="./mehak.jpg">
 
-- 🔮 **Currently Conjuring:** AI/ML Solutions & Full-Stack Magic at **ApanaGhr**
-- 🎓 **Academic Journey:** 3rd Year B.Tech CSE at **KIIT University** (CGPA: 8.52)
-- 🌱 **Learning Spells:** Advanced AI/ML, LLMs, RAG, BERT & Cloud Sorcery
-- 👯 **Seeking Fellow Wizards:** For AI Innovation & Hackathon Adventures
-- 🤔 **Quest for Knowledge:** System Design, AI Architecture & Scalable Solutions
-- 💬 **Spell Languages:** Python, JavaScript, TypeScript, React, TensorFlow, OpenCV
-- 📫 **Send Owl to:** 23052947@kiit.ac.in
-- 😄 **Pronouns:** She/Her/AI Enthusiast
-- ⚡ **Secret Power:** Converting Coffee ☕ into AI Models 🤖
-- 🎯 **Mission:** Building AI solutions that make a real-world impact!
-- 🏢 **Entrepreneur:** Co-founder @ **GrafikGalore** | Campus Ambassador @ **Unstop**
-- 🌐 **Portfolio:** www.ankitarahi.xyz | https://ankita-jade.vercel.app
+- 🤖 **AI Intern** @ **ApanaGhr** | 🎓 **KIIT CSE '27** (CGPA: 8.52)
+- 🧠 **Learning:** LLMs, RAG, BERT & Cloud Magic ✨
+- 🏆 **MIT AI Hackathon** Top 10 | 🥇 **TechFrontier Winner**
+- � **Stack:** Python, JS, React, TensorFlow, OpenCV
+- ☕ **Superpower:** Coffee → AI Models 🚀
+- 🎯 **Co-founder** @ GrafikGalore | 📢 Campus Ambassador @ Unstop
+- 📧 **Owl Mail:** 23052947@kiit.ac.in
+- 🌐 **Portfolio:** [ankitarahi.xyz](https://www.ankitarahi.xyz) | [Vercel](https://ankita-jade.vercel.app)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+---
+
+## 😄 Fun Facts About Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300">
+</div>
+
+<div align="center">
+
+| 🎭 **Personality** | 🎯 **Fun Facts** |
+|:---|:---|
+| 🍕 **Pizza Debugger** | I debug code better with pizza nearby 🐛➡️✅ |
+| 🌙 **Night Owl Coder** | My best algorithms come at 2 AM 🦉💻 |
+| 🎵 **Code Beats** | Lo-fi hip hop = instant productivity boost 🎧📈 |
+| 📚 **Bookworm** | AI papers > bedtime stories 📖🤖 |
+| 🎮 **Gaming Geek** | Strategy games = training for system design 🎯🧠 |
+| ☕ **Coffee Alchemist** | Converting caffeine into code since 2023 ⚗️💻 |
+| 🌱 **Plant Parent** | My plants listen to my coding rants 🪴💬 |
+| 🎨 **Creative Soul** | Design thinking meets machine learning 🎨🤖 |
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=🎭+Life+is+too+short+for+boring+code!;🍕+Powered+by+pizza+and+curiosity;🌟+Making+AI+less+scary%2C+one+joke+at+a+time!" alt="Fun Facts" />
 </div>
 
 ---
