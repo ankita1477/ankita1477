@@ -1,5 +1,16 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankita%20Rahi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=✨%20AI/ML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20KIIT%20CSE%20'27%20✨&descAlignY=55&descSize=20" />
+  <## 🎭 About This AI Wizard
+
+<img align="right" alt="Ankita Rahi" width="250" src="./mehak.jpg">
+
+- 🤖 **AI Intern** @ **ApanaGhr** | 🎓 **KIIT CSE '27** (CGPA: 8.52)
+- 🧠 **Learning:** LLMs, RAG, BERT & Cloud Magic ✨
+- 🏆 **MIT AI Hackathon** Top 10 | 🥇 **TechFrontier Winner**
+- 💻 **Stack:** Python, JS, React, TensorFlow, OpenCV
+- ☕ **Superpower:** Coffee → AI Models 🚀
+- 🎯 **Co-founder** @ GrafikGalore | 📢 Campus Ambassador @ Unstop
+- 📧 **Owl Mail:** 23052947@kiit.ac.in
+- 🌐 **Portfolio:** [ankitarahi.xyz](https://www.ankitarahi.xyz) | [Vercel](https://ankita-jade.vercel.app)00%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankita%20Rahi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=✨%20AI/ML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20KIIT%20CSE%20'27%20✨&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
