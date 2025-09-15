@@ -1,15 +1,9 @@
 <div align="center">
-  <img width="100%" src="https:/<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css&theme=dark" alt="Programming Languages" />
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
-
-### 🎨 **Frontend Artistry**ule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankita%20Rahi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=✨%20Coding%20Dreams%20Into%20Reality%20✨&descAlignY=55&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankita%20Rahi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=✨%20AI/ML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20KIIT%20CSE%20'27%20✨&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=120&lines=�+Full+Stack+Developer+🚀;🎨+Creative+Problem+Solver+🎨;🔥+Open+Source+Enthusiast+🔥;⚡+Code+Ninja+in+Training+⚡;🌟+Building+the+Future+One+Line+at+a+Time+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+AI/ML+%26+Full-Stack+Developer+🚀;🎓+KIIT+University+CSE+Student+🎓;🏆+MIT+AI+Hackathon+Top+10+Finalist+🏆;⚡+Building+AI+Solutions+for+Tomorrow+⚡;🌟+Co-founder+%40+GrafikGalore+🌟" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,8 +13,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ankita1477&label=Profile%20Views&color=ff69b4&style=for-the-badge&logo=eye" alt="profile views" />
   <img src="https://img.shields.io/github/followers/ankita1477?label=Followers&style=for-the-badge&color=orange&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-Coding%20%26%20Coffee-brightgreen?style=for-the-badge&logo=coffee" alt="status" />
-  <img src="https://img.shields.io/badge/Mood-Debugging%20Life-blue?style=for-the-badge&logo=bug" alt="mood" />
+  <img src="https://img.shields.io/badge/KIIT%20University-CSE%20'27-brightgreen?style=for-the-badge&logo=graduation-cap" alt="education" />
+  <img src="https://img.shields.io/badge/CGPA-8.52-blue?style=for-the-badge&logo=academic" alt="cgpa" />
 </div>
 
 <div align="center">
@@ -29,19 +23,22 @@
 
 ---
 
-## 🎭 About This Coding Wizard
+## 🎭 About This AI Wizard
 
-<img align="right" alt="Coding Wizard" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="AI Coding Wizard" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- � **Currently Conjuring:** Full Stack Magic with React & Node.js
-- 🌱 **Learning Spells:** Advanced React Potions, Cloud Sorcery & AI Enchantments
-- 👯 **Seeking Fellow Wizards:** For Open Source Adventures
-- 🤔 **Quest for Knowledge:** System Design & Architecture Mysteries
-- 💬 **Spell Languages:** JavaScript, React, Node.js, MongoDB, Python
-- 📫 **Send Owl to:** ankitarahi@example.com
-- 😄 **Pronouns:** She/Her/Coding Goddess
-- ⚡ **Secret Power:** Converting Coffee ☕ into Code 💻
-- 🎯 **Mission:** Making the web a more beautiful place, one commit at a time!
+- 🔮 **Currently Conjuring:** AI/ML Solutions & Full-Stack Magic at **ApanaGhr**
+- 🎓 **Academic Journey:** 3rd Year B.Tech CSE at **KIIT University** (CGPA: 8.52)
+- 🌱 **Learning Spells:** Advanced AI/ML, LLMs, RAG, BERT & Cloud Sorcery
+- 👯 **Seeking Fellow Wizards:** For AI Innovation & Hackathon Adventures
+- 🤔 **Quest for Knowledge:** System Design, AI Architecture & Scalable Solutions
+- 💬 **Spell Languages:** Python, JavaScript, TypeScript, React, TensorFlow, OpenCV
+- 📫 **Send Owl to:** 23052947@kiit.ac.in | Contact: +91-6387953827
+- 😄 **Pronouns:** She/Her/AI Enthusiast
+- ⚡ **Secret Power:** Converting Coffee ☕ into AI Models 🤖
+- 🎯 **Mission:** Building AI solutions that make a real-world impact!
+- 🏢 **Entrepreneur:** Co-founder @ **GrafikGalore** | Campus Ambassador @ **Unstop**
+- 🌐 **Portfolio:** www.ankitarahi.xyz
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -49,50 +46,57 @@
 
 ---
 
-## 🛠️ My Magical Toolkit
+## 🛠️ My Magical AI/ML Toolkit
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences;With+These+Amazing+Tools!" alt="Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Crafting+AI+Solutions;With+These+Amazing+Tools!" alt="Tools" />
 </div>
 
-### 💻 **Languages That Speak to My Soul**
+### 💻 **Programming Languages That Speak to My Soul**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c&theme=dark" alt="Programming Languages" />
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
-### �️ Frontend Development
+### 🤖 **AI/ML Arsenal**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,bootstrap,tailwind,sass,materialui&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/BERT-FF6B6B?style=for-the-badge&logo=google&logoColor=white" alt="BERT" />
+  <img src="https://img.shields.io/badge/LLMs-4CAF50?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/NLP-FF9800?style=for-the-badge&logo=natural-language-toolkit&logoColor=white" alt="NLP" />
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+</div>
+
+### 🎨 **Frontend Artistry**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend" />
   <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
 ### ⚙️ **Backend Sorcery**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,graphql,firebase&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend" />
   <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 </div>
 
 ### 🗄️ **Data Kingdoms**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases" />
   <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 </div>
 
-### ☁️ **Cloud & DevOps Magic**
+### 🔧 **Developer Weapons of Choice**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,git,github&theme=dark" alt="Cloud & DevOps" />
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-</div>
-
-### 🔧 **Weapons of Choice**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,npm,yarn,webpack,vite&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode&theme=dark" alt="Tools" />
 </div>
 
 <div align="center">
@@ -129,12 +133,63 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284175-f23e8466-5b87-4cf7-8e2c-e8227e59cc30.gif" width="200">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=🏅+Collecting+Digital+Trophies;⭐+Level+Up+Every+Day;🎯+Mission%3A+Code+Excellence!" alt="Trophy Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=🏅+MIT+AI+Hackathon+Top+10;⭐+TechFrontier+Winner+2024;🎯+Smart+India+Hackathon+Participant!" alt="Trophy Title" />
 </div>
+
+### 🥇 **MIT AI Hackathon 2025** - Top 10 Finalist (Global, 800+ teams)
+### 🥇 **TechFrontier Industry 4.0 2024** - Winner (1st Prize)
+### 🥈 **Smart India Hackathon 2024** - National Participant
+### 🏆 **Multiple Hackathon Participations** with successful deliveries (2024-2025)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ankita1477&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
 </div>
+
+---
+
+## 🚀 Featured AI/ML Projects
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd4-876e-8bb8724e1e39.gif" width="400">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=9A4AE2&center=true&vCenter=true&width=700&lines=💼+Award-Winning+AI+Projects;✨+Innovation+Meets+Impact;🎯+Solving+Real-World+Problems!" alt="Portfolio Title" />
+</div>
+
+### 🥇 **ThinkForge** - Perplexity Hackathon 2025
+🤖 **AI Debate Platform** with Historical Figures using **Sonar AI** and **React.js**
+- Enables debates with AI-powered historical personalities
+- Real-time argument analysis and scoring
+- Technologies: React.js, Sonar AI, NLP
+
+### 🥈 **HackaTwin** - MIT AI Hackathon 2025  
+📊 **Hackathon Management System** with **FastAPI**, **Next.js**, and **Local LLM**
+- Achieved 43% email open rate
+- Automated participant management and communication
+- Technologies: FastAPI, Next.js, LLM Integration
+
+### 🥉 **Recora** - MIT AI Hackathon 2025 (Top 10 from 800+ teams)
+🏥 **Privacy-First Health Assistant** using **LLMs** and **React**
+- Secure health data processing with local AI
+- HIPAA-compliant architecture
+- Technologies: React, LLMs, Privacy Engineering
+
+### 🎯 **Ninja Meeting AI** - Personal Project 2025
+🎙️ **Real-time Meeting Transcription** using **RAG**, **BERT**, and **LLMs**
+- Live meeting analysis and summarization
+- Action item extraction and follow-up automation
+- Technologies: RAG, BERT, LLMs, Real-time Processing
+
+### 🛡️ **Women Safety Analytics** - Smart India Hackathon 2024
+👁️ **CCTV-Integrated Anomaly Detection** using **AI/ML** and **OpenCV**
+- Real-time threat detection and alert system
+- Computer vision-based safety monitoring
+- Technologies: OpenCV, TensorFlow, Computer Vision
+
+### 🧠 **AI Mental Health Assistant** - TechFrontier 2024 (1st Prize Winner)
+💙 **Sentiment-Aware Chatbot** using **Python** and **NLP**
+- Emotion detection and personalized responses
+- Mental health screening and support
+- Technologies: Python, NLP, Sentiment Analysis
 
 ---
 
@@ -143,11 +198,11 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5813a.gif" width="400">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🌌+Mapping+My+Code+Journey;📊+Every+Commit+Tells+a+Story;🚀+Building+Digital+Worlds!" alt="Activity Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🌌+Mapping+My+Code+Journey;📊+Every+Commit+Tells+a+Story;🚀+Building+AI+Solutions!" alt="Activity Title" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&bg_color=0D1117&color=FF6B6B&line=00D4FF&point=FFD700&area=true&hide_border=true&custom_title=🎯%20Ankita's%20Contribution%20Adventure" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankita1477&bg_color=0D1117&color=FF6B6B&line=00D4FF&point=FFD700&area=true&hide_border=true&custom_title=🎯%20Ankita's%20AI%20Innovation%20Journey" alt="Contribution Graph" />
 </div>
 
 ---
@@ -163,31 +218,50 @@
 
 ---
 
-## 🎨 My Creative Digital Portfolio
+## 💼 Professional Experience
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd4-876e-8bb8724e1e39.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="300">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=9A4AE2&center=true&vCenter=true&width=700&lines=💼+Showcasing+My+Best+Work;✨+Projects+That+Make+a+Difference;🎯+Innovation+%26+Creativity+Combined!" alt="Portfolio Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=💼+Building+Real+Impact;🚀+From+Intern+to+Entrepreneur;⭐+Leading+Communities!" alt="Experience Title" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/ankita1477/awesome-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankita1477&repo=awesome-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A4AE2&icon_color=FF6B6B&text_color=FFF&border_radius=15" alt="Featured Project 1" />
-  </a>
-  <a href="https://github.com/ankita1477/cool-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankita1477&repo=cool-project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A4AE2&icon_color=FF6B6B&text_color=FFF&border_radius=15" alt="Featured Project 2" />
-  </a>
-</div>
+### 🤖 **AI Intern** - ApanaGhr (June 2025 - September 2025)
+- Contributing to AI/ML projects in rental housing ecosystem
+- Developing solutions using JavaScript, TypeScript, and Python
+- Working on intelligent property matching algorithms
+
+### 🎯 **Perplexity Campus Partner** - KIIT (2025)
+- Promoting Comet Browser and building community engagement
+- Leading innovation initiatives and AI tools awareness
+- Organizing tech talks and workshops
+
+### 🌐 **Campus Ambassador** - Unstop (2025-2026)
+- Leading campus networking and collaboration initiatives
+- Bringing opportunities and competitions to student community
+- Building bridges between industry and academia
+
+### 🎨 **Co-founder** - GrafikGalore (2023-Present)
+- Managing e-commerce operations and customer relations
+- Specialized in graphic design and custom products
+- Building sustainable business with creative solutions
+
+---
+
+## 🎓 Education Journey
 
 <div align="center">
-  <a href="https://github.com/ankita1477/innovative-project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankita1477&repo=innovative-project-3&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A4AE2&icon_color=FF6B6B&text_color=FFF&border_radius=15" alt="Featured Project 3" />
-  </a>
-  <a href="https://github.com/ankita1477/amazing-project-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankita1477&repo=amazing-project-4&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A4AE2&icon_color=FF6B6B&text_color=FFF&border_radius=15" alt="Featured Project 4" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
 </div>
+
+### 🏫 **KIIT University, Bhubaneswar** (2023-2027)
+**Bachelor of Technology in Computer Science Engineering**
+- **Current CGPA:** 8.52 (2nd Year), 8.75 (1st Year)
+- **Focus Areas:** AI/ML, Full-Stack Development, System Design
+
+### 📚 **Bethel Academy** (2020-2022)
+- **Class XII (CBSE):** 79%
+- **Class X (CBSE):** 79%
 
 ---
 
@@ -197,7 +271,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="300">
   
   <br><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Ankita%20Rahi" alt="Custom Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=AI%20is%20not%20about%20replacing%20humans%2C%20it's%20about%20augmenting%20human%20potential.&author=Ankita%20Rahi" alt="Custom Dev Quote" />
   
   <br><br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
@@ -205,13 +279,13 @@
 
 ---
 
-## 🚀 Let's Connect & Create Magic Together!
+## 🚀 Let's Connect & Create AI Magic Together!
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
   
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=700&lines=📱+Let's+Build+Something+Amazing!;🤝+Open+for+Collaborations;💌+Always+Happy+to+Chat!" alt="Connect Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=700&lines=📱+Let's+Build+AI+Solutions!;🤝+Open+for+AI+Collaborations;💌+Always+Ready+to+Innovate!" alt="Connect Title" />
 </div>
 
 <div align="center">
@@ -230,17 +304,17 @@
 </div>
 
 <div align="center">
-  <a href="mailto:ankitarahi@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+  <a href="mailto:23052947@kiit.ac.in" target="_blank">
+    <img src="https://img.shields.io/badge/KIIT_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="KIIT Email" />
   </a>
-  <a href="https://portfolio-ankita.com" target="_blank">
+  <a href="https://www.ankitarahi.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white&labelColor=FF5722" alt="Portfolio" />
   </a>
   <a href="https://medium.com/@ankita_rahi" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" />
   </a>
-  <a href="https://codepen.io/ankita_rahi" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000" alt="CodePen" />
+  <a href="https://github.com/ankita1477" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
   </a>
 </div>
 
@@ -251,13 +325,13 @@
 
 ---
 
-## 🎉 Thanks for Visiting My Digital Playground!
+## 🎉 Thanks for Visiting My AI Laboratory!
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
   
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=✨+Keep+Coding%2C+Keep+Creating!+✨;🚀+May+Your+Code+Compile+Successfully!+🚀;💖+Thanks+for+Stopping+By!+💖;🎯+Let's+Build+the+Future+Together!+🎯" alt="Footer Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=✨+Keep+Coding%2C+Keep+Innovating!+✨;🚀+May+Your+AI+Models+Converge!+🚀;💖+Thanks+for+Exploring+My+Journey!+💖;🎯+Let's+Shape+the+AI+Future+Together!+🎯" alt="Footer Message" />
 </div>
 
 <div align="center">
@@ -265,11 +339,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20AI%20Coding!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ankita1477&label=Profile%20Views&color=ff69b4&style=for-the-badge&logo=eye" alt="profile views" />
   <br><br>
-  <sub>🌟 <strong>Remember:</strong> Every expert was once a beginner. Keep learning, keep growing! 🌟</sub>
+  <sub>🌟 <strong>Remember:</strong> Every AI breakthrough starts with a single line of code. Keep learning, keep building! 🌟</sub>
 </div>
