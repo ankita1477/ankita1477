@@ -25,7 +25,7 @@
 
 ## 🎭 About This AI Wizard
 
-<img align="right" alt="AI Coding Wizard" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Ankita Rahi" width="400" src="./mehak.jpg">
 
 - 🔮 **Currently Conjuring:** AI/ML Solutions & Full-Stack Magic at **ApanaGhr**
 - 🎓 **Academic Journey:** 3rd Year B.Tech CSE at **KIIT University** (CGPA: 8.52)
@@ -33,12 +33,12 @@
 - 👯 **Seeking Fellow Wizards:** For AI Innovation & Hackathon Adventures
 - 🤔 **Quest for Knowledge:** System Design, AI Architecture & Scalable Solutions
 - 💬 **Spell Languages:** Python, JavaScript, TypeScript, React, TensorFlow, OpenCV
-- 📫 **Send Owl to:** 23052947@kiit.ac.in | Contact: +91-6387953827
+- 📫 **Send Owl to:** 23052947@kiit.ac.in
 - 😄 **Pronouns:** She/Her/AI Enthusiast
 - ⚡ **Secret Power:** Converting Coffee ☕ into AI Models 🤖
 - 🎯 **Mission:** Building AI solutions that make a real-world impact!
 - 🏢 **Entrepreneur:** Co-founder @ **GrafikGalore** | Campus Ambassador @ **Unstop**
-- 🌐 **Portfolio:** www.ankitarahi.xyz
+- 🌐 **Portfolio:** www.ankitarahi.xyz | https://ankita-jade.vercel.app
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -213,7 +213,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
   
   <br><br>
-  <img src="https://raw.githubusercontent.com/ankita1477/ankita1477/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankita1477/ankita1477/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankita1477/ankita1477/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ankita1477/ankita1477/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+  <!-- Fallback animated contribution visualization -->
+  <br><br>
+  <img src="https://github.com/ankita1477/ankita1477/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -309,6 +317,9 @@
   </a>
   <a href="https://www.ankitarahi.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white&labelColor=FF5722" alt="Portfolio" />
+  </a>
+  <a href="https://ankita-jade.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_2-9C27B0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=9C27B0" alt="Portfolio 2" />
   </a>
   <a href="https://medium.com/@ankita_rahi" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" />
