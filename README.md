@@ -239,12 +239,10 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankita1477/ankita1477/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankita1477/ankita1477/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ankita1477/ankita1477/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ankita1477/ankita1477/output/github-contribution-grid-snake.svg">
   </picture>
   
-  <!-- Fallback animated contribution visualization -->
-  <br><br>
-  <img src="https://github.com/ankita1477/ankita1477/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <!-- The snake SVGs are regenerated every 12h by GitHub Actions (see .github/workflows/snake.yml) -->
 </div>
 
 ---
