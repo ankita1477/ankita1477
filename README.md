@@ -1,7 +1,10 @@
 <div align="center">
-  <## 🎭 About This AI Wizard
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankita%20Rahi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=✨%20AI/ML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20KIIT%20CSE%20'27%20✨&descAlignY=55&descSize=20" />
+</div>
 
-<img align="right" alt="Ankita Rahi" width="250" src="./mehak.jpg">
+## 🎭 About This AI Wizard
+
+<img align="right" alt="Ankita Rahi" width="170" src="./mehak.jpg">
 
 - 🤖 **AI Intern** @ **ApanaGhr** | 🎓 **KIIT CSE '27** (CGPA: 8.52)
 - 🧠 **Learning:** LLMs, RAG, BERT & Cloud Magic ✨
@@ -10,8 +13,7 @@
 - ☕ **Superpower:** Coffee → AI Models 🚀
 - 🎯 **Co-founder** @ GrafikGalore | 📢 Campus Ambassador @ Unstop
 - 📧 **Owl Mail:** 23052947@kiit.ac.in
-- 🌐 **Portfolio:** [ankitarahi.xyz](https://www.ankitarahi.xyz) | [Vercel](https://ankita-jade.vercel.app)00%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankita%20Rahi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=✨%20AI/ML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20KIIT%20CSE%20'27%20✨&descAlignY=55&descSize=20" />
-</div>
+- 🌐 **Portfolio:** [ankitarahi.xyz](https://www.ankitarahi.xyz) · [Vercel](https://ankita-jade.vercel.app)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+AI/ML+%26+Full-Stack+Developer+🚀;🎓+KIIT+University+CSE+Student+🎓;🏆+MIT+AI+Hackathon+Top+10+Finalist+🏆;⚡+Building+AI+Solutions+for+Tomorrow+⚡;🌟+Co-founder+%40+GrafikGalore+🌟" alt="Typing SVG" />
@@ -33,19 +35,6 @@
 </div>
 
 ---
-
-## 🎭 About This AI Wizard
-
-<img align="right" alt="Ankita Rahi" width="400" src="./mehak.jpg">
-
-- 🤖 **AI Intern** @ **ApanaGhr** | 🎓 **KIIT CSE '27** (CGPA: 8.52)
-- 🧠 **Learning:** LLMs, RAG, BERT & Cloud Magic ✨
-- 🏆 **MIT AI Hackathon** Top 10 | 🥇 **TechFrontier Winner**
-- � **Stack:** Python, JS, React, TensorFlow, OpenCV
-- ☕ **Superpower:** Coffee → AI Models 🚀
-- 🎯 **Co-founder** @ GrafikGalore | 📢 Campus Ambassador @ Unstop
-- 📧 **Owl Mail:** 23052947@kiit.ac.in
-- 🌐 **Portfolio:** [ankitarahi.xyz](https://www.ankitarahi.xyz) | [Vercel](https://ankita-jade.vercel.app)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
